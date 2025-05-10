@@ -1,0 +1,11 @@
+# Node.js
+
+node_modules/ npm-debug.log .pnpm-debug.log
+
+# Environment variables
+
+.env
+
+# SSL certificates
+
+Server/192.168.1.97-key.pem Server/192.168.1.97.pem Server/localhost-key.pem Server/localhost.pem
